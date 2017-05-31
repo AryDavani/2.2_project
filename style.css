@@ -158,5 +158,9 @@ header{
     margin-left: 5%;
   }
 
+  #sidebar_content {
+    justify-content: space-around;
+  }
+
 
 }
